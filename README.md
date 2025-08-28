@@ -36,24 +36,25 @@ canvas](https://wplace.live/).
 
 > [Intructions from BlueMarble](https://github.com/SwingTheVine/Wplace-BlueMarble?tab=readme-ov-file#installation-instructions)
 
-1. Install the [Tampermonkey](https://www.tampermonkey.net/#download) browser extension.
+1. **Install** the [Tampermonkey](https://www.tampermonkey.net/#download) browser extension.
    <details>
    <summary>Image for Google Chrome</summary>
 
-   ![](https://github.com/SwingTheVine/Wplace-BlueMarble/raw/main/docs/assets/ComputerChromeInstall1.png)
+   ![Click the 'Add extension' button](https://github.com/SwingTheVine/Wplace-BlueMarble/raw/main/docs/assets/ComputerChromeInstall1.png)
 
    </details>
-2. You might have to Enable *Developer mode* and *Allow User Scripts* to work on some browsers.
+2. You **might have to** Enable *Developer mode* and *Allow User Scripts* to work on some browsers.
    <details>
    <summary>Images for Google Chrome</summary>
 
-   ![](https://github.com/SwingTheVine/Wplace-BlueMarble/raw/main/docs/assets/ComputerChromeInstall2.png)
-   ![](https://github.com/SwingTheVine/Wplace-BlueMarble/raw/main/docs/assets/ComputerChromeInstall3.png)
+   ![Enter the 'Manage Extension' menu](https://github.com/SwingTheVine/Wplace-BlueMarble/raw/main/docs/assets/ComputerChromeInstall2.png)
+   ![Enable 'Developer Mode' and 'Allow user scripts'](https://github.com/SwingTheVine/Wplace-BlueMarble/raw/main/docs/assets/ComputerChromeInstall3.png)
 
    </details>
-3. Click on this link: **[Install LavaPlace](https://github.com/volcanofr/Wplace-LavaPlace/releases/download/v1.0/LavaPlace.user.js)**
-   TamperMonkey will automatically detect the userscript and prompt you to Install it.
-4. Refresh the [wplace.live](https://wplace.live/) webpage.
+3. Click on this link: **[Install
+   LavaPlace](https://github.com/volcanofr/Wplace-LavaPlace/releases/download/v1.0/LavaPlace.user.js)**
+   <br />TamperMonkey will automatically detect the userscript and prompt you to Install it.
+4. **Refresh** the [wplace.live](https://wplace.live/) webpage.
 
 ## 👾 Features
 
