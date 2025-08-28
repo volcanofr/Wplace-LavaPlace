@@ -51,7 +51,7 @@ canvas](https://wplace.live/).
    ![](https://github.com/SwingTheVine/Wplace-BlueMarble/raw/main/docs/assets/ComputerChromeInstall3.png)
 
    </details>
-3. Click on this non-existant link: **Install LavaPlace** (one-click coming soon, you can already use [LavaPlace.js](LavaPlace.js))
+3. Click on this link: **[Install LavaPlace](https://github.com/volcanofr/Wplace-LavaPlace/releases/download/v1.0/LavaPlace.user.js)**
    TamperMonkey will automatically detect the userscript and prompt you to Install it.
 4. Refresh the [wplace.live](https://wplace.live/) webpage.
 
