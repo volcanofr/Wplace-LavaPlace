@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"resolveJsonModule": true,
+		"esModuleInterop": true,
+		"target": "es2017",
+		"pretty": true,
+		"strict": true,
+		"alwaysStrict": false,
+		"outDir": "./dist",
+		"skipLibCheck": true,
+		"allowJs": true,
+		"checkJs": true
+	},
+	"include": [
+		"src/**/*"
+	],
+	"exclude": [
+		"node_modules/**/*"
+	]
+}
