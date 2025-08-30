@@ -201,6 +201,7 @@ function generateSelfAllianceCopy(element, alliance) {
 	};
 }
 async function generateAllianceInfo(menu, data) {
+	if (document.querySelector("#lavaplace-alliance-info")) return;
 	if (data && data.allianceId <= 0) return removeAllianceInfo(menu);
 	const topSection = menu.querySelectorAll("section > div");
 	if (!topSection || topSection.length < 2) return removeAllianceInfo(menu);

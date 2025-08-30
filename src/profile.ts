@@ -130,6 +130,7 @@ function generateSelfAllianceCopy(element: Element, alliance: allianceData) {
 }
 
 async function generateAllianceInfo(menu: Element, data?: meData) {
+	if (document.querySelector("#lavaplace-alliance-info")) return;
 	if (data && data.allianceId <= 0) return removeAllianceInfo(menu);
 
 	const topSection = menu.querySelectorAll("section > div");
