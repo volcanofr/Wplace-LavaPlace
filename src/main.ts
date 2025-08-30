@@ -54,3 +54,21 @@ async function start() {
 
 	return true;
 }
+
+(() => {
+	window.addEventListener("message", async (event) => {
+		const { source, endpoint, data } = event.data;
+		if (source !== "lavaplace" || !endpoint) return;
+		
+		const endpointText = endpoint.split('?')[0].split('/').filter((s: string) => s && isNaN(Number(s))).filter((s: string) => s && !s.includes('.')).pop();
+
+		switch (endpointText) {
+			case "me":
+				await updateUserMenu(data);
+				break;
+			case "pixel":
+				await updatePixelMenu(data);
+				break;
+		}
+	});
+})();

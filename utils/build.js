@@ -6,6 +6,7 @@ const parts = [
 	readFileSync(path.join(__dirname, "..", "dist", "meta.js"), "utf-8").trim(),
 	readFileSync(path.join(__dirname, "..", "dist", "utils.js"), "utf-8").trim(),
 	readFileSync(path.join(__dirname, "..", "dist", "profile.js"), "utf-8").trim(),
+	readFileSync(path.join(__dirname, "..", "dist", "pixel.js"), "utf-8").trim(),
 	readFileSync(path.join(__dirname, "..", "dist", "main.js"), "utf-8").trimStart(),
 ];
 
