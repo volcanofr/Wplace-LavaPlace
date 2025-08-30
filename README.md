@@ -52,7 +52,7 @@ canvas](https://wplace.live/).
 
    </details>
 3. Click on this link: **[Install
-   LavaPlace](https://github.com/volcanofr/Wplace-LavaPlace/releases/download/v1.0/LavaPlace.user.js)**
+   LavaPlace](https://github.com/volcanofr/Wplace-LavaPlace/releases/download/v1.1/LavaPlace.user.js)**
    <br />TamperMonkey will automatically detect the userscript and prompt you to Install it.
 4. **Refresh** the [wplace.live](https://wplace.live/) webpage.
 
