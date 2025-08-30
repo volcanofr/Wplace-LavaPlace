@@ -60,3 +60,7 @@ canvas](https://wplace.live/).
 
 - On user's profile:
   - number of pixels required until next level
+  - user's alliance
+  - ability to copy user & alliance informations
+- On pixel's data:
+  - ability to copy user & alliance informations
