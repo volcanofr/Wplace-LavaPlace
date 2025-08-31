@@ -102,8 +102,6 @@ function generateSelfUserCopy(menu: Element, data?: meData) {
 		user.name = topSection[1].querySelector("h3")?.textContent;
 	}
 
-	console.log('user:', user);
-
 	if (!user.name || !user.id) return;
 
 	const copy = `My user name: ${user.name} (ID: #${user.id})`;

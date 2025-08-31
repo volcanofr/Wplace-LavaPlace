@@ -181,7 +181,6 @@ function generateSelfUserCopy(menu, data) {
 				? void 0
 				: _b.textContent;
 	}
-	console.log("user:", user);
 	if (!user.name || !user.id) return;
 	const copy = `My user name: ${user.name} (ID: #${user.id})`;
 	userIdSpan.style.cursor = "pointer";
