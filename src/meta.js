@@ -2,7 +2,7 @@
 // @name        LavaPlace for Wplace
 // @namespace   https://github.com/volcanofr/Wplace-LavaPlace
 // @copyright   Originally made by volcanofr 🌋
-// @version     1.1
+// @version     1.2
 // @description Shows more informations about yourself, the selected pixels, and much more!
 // @icon        https://raw.githubusercontent.com/volcanofr/Wplace-LavaPlace/main/src/icon.png
 // @icon64      https://raw.githubusercontent.com/volcanofr/Wplace-LavaPlace/main/src/icon64.png

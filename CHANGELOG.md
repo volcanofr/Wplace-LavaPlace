@@ -1,3 +1,8 @@
+### v1.2
+
+- Added a fallback on tile fail loading
+- Some small fixes
+
 ### v1.1
 
 - Added the user's alliance in profile
