@@ -52,7 +52,7 @@ canvas](https://wplace.live/).
 
    </details>
 3. Click on this link: **[Install
-   LavaPlace](https://github.com/volcanofr/Wplace-LavaPlace/releases/download/v1.1/LavaPlace.user.js)**
+   LavaPlace](https://github.com/volcanofr/Wplace-LavaPlace/releases/download/v1.2/LavaPlace.user.js)**
    <br />TamperMonkey will automatically detect the userscript and prompt you to Install it.
 4. **Refresh** the [wplace.live](https://wplace.live/) webpage.
 
@@ -64,3 +64,5 @@ canvas](https://wplace.live/).
   - ability to copy user & alliance informations
 - On pixel's data:
   - ability to copy user & alliance informations
+- Site fixes and fallbacks:
+  - if a tile fails to update, keep the previous one (images saves lasts 2m30s at max)
